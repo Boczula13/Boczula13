@@ -9,7 +9,7 @@
 
 I am a graduate of the Gdańsk University of Technology with a keen interest in data science, machine learning, and analysis. I enjoy working with data to derive insights and build predictive models that can drive decision-making processes.
 
-- 👀 I’m currently working on Comment Analysis with Naive Bayes Classifier..
+- 👀 I’m currently working on Comment Analysis with Naive Bayes Classifier.
 - 💞️ I’m looking to collaborate on Data Science/Analysis or Machine Learning projects.
 
 
